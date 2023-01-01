@@ -1,0 +1,115 @@
+12:00:30.003 [main] INFO  testCases.TC_001_AccountRegistrationTest - starting account accountRegistration
+12:00:30.855 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on register link
+12:00:30.858 [main] INFO  testCases.TC_001_AccountRegistrationTest - providing user data
+12:00:31.617 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on submit
+12:00:31.650 [main] INFO  testCases.TC_001_AccountRegistrationTest - validating confim message
+12:00:31.652 [main] INFO  testCases.TC_001_AccountRegistrationTest - Finsihed acct reg test
+12:07:49.630 [main] INFO  testCases.TC_001_AccountRegistrationTest - starting account accountRegistration
+12:07:50.508 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on register link
+12:07:50.510 [main] INFO  testCases.TC_001_AccountRegistrationTest - providing user data
+12:07:51.424 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on submit
+12:07:51.454 [main] INFO  testCases.TC_001_AccountRegistrationTest - validating confim message
+12:07:51.456 [main] INFO  testCases.TC_001_AccountRegistrationTest - Finsihed acct reg test
+12:08:28.696 [main] INFO  testCases.TC_001_AccountRegistrationTest - starting account accountRegistration
+12:08:29.251 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on register link
+12:08:29.254 [main] INFO  testCases.TC_001_AccountRegistrationTest - providing user data
+12:08:30.213 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on submit
+12:08:30.241 [main] INFO  testCases.TC_001_AccountRegistrationTest - validating confim message
+12:08:30.243 [main] INFO  testCases.TC_001_AccountRegistrationTest - Finsihed acct reg test
+12:12:53.000 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - starting account accountRegistration
+12:12:54.170 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - clicked on register link
+12:12:54.204 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - providing user data
+12:12:55.194 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - clicked on submit
+12:12:55.271 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - validating confim message
+12:12:55.273 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Finsihed acct reg test
+12:12:55.593 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - starting account accountRegistration
+12:12:56.658 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - clicked on register link
+12:12:56.660 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - providing user data
+12:12:57.866 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - clicked on submit
+12:12:57.962 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - validating confim message
+12:12:57.962 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Finsihed acct reg test
+12:35:45.143 [main] INFO  testCases.TC_001_AccountRegistrationTest - starting account accountRegistration
+12:35:45.954 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on register link
+12:35:45.956 [main] INFO  testCases.TC_001_AccountRegistrationTest - providing user data
+12:35:46.978 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on submit
+12:35:47.057 [main] INFO  testCases.TC_001_AccountRegistrationTest - validating confim message
+12:35:47.057 [main] INFO  testCases.TC_001_AccountRegistrationTest - Finsihed acct reg test
+13:00:18.987 [main] INFO  testCases.TC_001_AccountRegistrationTest - starting account accountRegistration
+13:00:19.815 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on register link
+13:00:19.817 [main] INFO  testCases.TC_001_AccountRegistrationTest - providing user data
+13:00:20.637 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on submit
+13:00:20.665 [main] INFO  testCases.TC_001_AccountRegistrationTest - validating confim message
+13:00:20.667 [main] INFO  testCases.TC_001_AccountRegistrationTest - Finsihed acct reg test
+13:01:59.083 [main] INFO  testCases.TC_001_AccountRegistrationTest - starting account accountRegistration
+13:01:59.557 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on register link
+13:01:59.559 [main] INFO  testCases.TC_001_AccountRegistrationTest - providing user data
+13:01:59.921 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on submit
+13:02:09.986 [main] INFO  testCases.TC_001_AccountRegistrationTest - validating confim message
+13:04:42.524 [main] INFO  testCases.TC_001_AccountRegistrationTest - starting account accountRegistration
+13:04:43.032 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on register link
+13:04:43.034 [main] INFO  testCases.TC_001_AccountRegistrationTest - providing user data
+13:04:43.818 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on submit
+13:04:43.848 [main] INFO  testCases.TC_001_AccountRegistrationTest - validating confim message
+13:04:43.850 [main] INFO  testCases.TC_001_AccountRegistrationTest - Finsihed acct reg test
+13:40:11.107 [main] INFO  testCases.TC_001_AccountRegistrationTest - starting account accountRegistration
+13:40:11.957 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on register link
+13:40:11.959 [main] INFO  testCases.TC_001_AccountRegistrationTest - providing user data
+13:40:12.958 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on submit
+13:40:13.014 [main] INFO  testCases.TC_001_AccountRegistrationTest - validating confim message
+13:40:13.016 [main] INFO  testCases.TC_001_AccountRegistrationTest - Finsihed acct reg test
+14:25:23.596 [main] INFO  testCases.TC_002_LoginTest - Starting TC_002_LoginTest
+14:25:24.457 [main] INFO  testCases.TC_002_LoginTest - Clicked on Login button
+14:29:36.700 [main] INFO  testCases.TC_002_LoginTest - Starting TC_002_LoginTest
+14:29:37.510 [main] INFO  testCases.TC_002_LoginTest - Clicked on Login button
+14:30:39.602 [main] INFO  testCases.TC_002_LoginTest - Starting TC_002_LoginTest
+14:30:40.715 [main] INFO  testCases.TC_002_LoginTest - Clicked on Login button
+20:32:42.547 [main] INFO  testCases.TC_003_LogginDDT - ****starting TC_003_login DDT
+20:32:43.976 [main] INFO  testCases.TC_003_LogginDDT - ****starting TC_003_login DDT
+20:46:21.400 [main] INFO  testCases.TC_001_AccountRegistrationTest - starting account accountRegistration
+20:46:22.220 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on register link
+20:46:22.223 [main] INFO  testCases.TC_001_AccountRegistrationTest - providing user data
+20:46:22.986 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on submit
+20:46:23.019 [main] INFO  testCases.TC_001_AccountRegistrationTest - validating confim message
+20:46:23.021 [main] INFO  testCases.TC_001_AccountRegistrationTest - Finsihed acct reg test
+20:46:26.131 [main] INFO  testCases.TC_002_LoginTest - Starting TC_002_LoginTest
+20:46:27.054 [main] INFO  testCases.TC_002_LoginTest - Clicked on Login button
+13:17:45.356 [main] INFO  testCases.TC_001_AccountRegistrationTest - starting account accountRegistration
+13:17:46.148 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on register link
+13:17:46.152 [main] INFO  testCases.TC_001_AccountRegistrationTest - providing user data
+13:17:46.954 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on submit
+13:17:46.985 [main] INFO  testCases.TC_001_AccountRegistrationTest - validating confim message
+13:17:46.988 [main] INFO  testCases.TC_001_AccountRegistrationTest - Finsihed acct reg test
+13:17:50.132 [main] INFO  testCases.TC_002_LoginTest - Starting TC_002_LoginTest
+13:17:51.055 [main] INFO  testCases.TC_002_LoginTest - Clicked on Login button
+13:19:08.451 [main] INFO  testCases.TC_001_AccountRegistrationTest - starting account accountRegistration
+13:19:09.184 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on register link
+13:19:09.187 [main] INFO  testCases.TC_001_AccountRegistrationTest - providing user data
+13:19:09.989 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on submit
+13:19:10.020 [main] INFO  testCases.TC_001_AccountRegistrationTest - validating confim message
+13:19:10.022 [main] INFO  testCases.TC_001_AccountRegistrationTest - Finsihed acct reg test
+13:19:13.004 [main] INFO  testCases.TC_002_LoginTest - Starting TC_002_LoginTest
+13:19:13.850 [main] INFO  testCases.TC_002_LoginTest - Clicked on Login button
+13:30:34.650 [main] INFO  testCases.TC_001_AccountRegistrationTest - starting account accountRegistration
+13:30:35.976 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on register link
+13:30:35.978 [main] INFO  testCases.TC_001_AccountRegistrationTest - providing user data
+13:30:36.912 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on submit
+13:30:36.980 [main] INFO  testCases.TC_001_AccountRegistrationTest - validating confim message
+13:30:36.982 [main] INFO  testCases.TC_001_AccountRegistrationTest - Finsihed acct reg test
+13:30:41.927 [main] INFO  testCases.TC_002_LoginTest - Starting TC_002_LoginTest
+13:30:42.881 [main] INFO  testCases.TC_002_LoginTest - Clicked on Login button
+13:55:30.436 [main] INFO  testCases.TC_001_AccountRegistrationTest - starting account accountRegistration
+13:55:31.140 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on register link
+13:55:31.142 [main] INFO  testCases.TC_001_AccountRegistrationTest - providing user data
+13:55:31.917 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on submit
+13:55:31.946 [main] INFO  testCases.TC_001_AccountRegistrationTest - validating confim message
+13:55:31.948 [main] INFO  testCases.TC_001_AccountRegistrationTest - Finsihed acct reg test
+13:55:37.386 [main] INFO  testCases.TC_002_LoginTest - Starting TC_002_LoginTest
+13:55:38.331 [main] INFO  testCases.TC_002_LoginTest - Clicked on Login button
+14:02:07.004 [main] INFO  testCases.TC_001_AccountRegistrationTest - starting account accountRegistration
+14:02:07.781 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on register link
+14:02:07.783 [main] INFO  testCases.TC_001_AccountRegistrationTest - providing user data
+14:02:08.588 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on submit
+14:02:08.614 [main] INFO  testCases.TC_001_AccountRegistrationTest - validating confim message
+14:02:08.616 [main] INFO  testCases.TC_001_AccountRegistrationTest - Finsihed acct reg test
+14:02:13.119 [main] INFO  testCases.TC_002_LoginTest - Starting TC_002_LoginTest
+14:02:14.008 [main] INFO  testCases.TC_002_LoginTest - Clicked on Login button
